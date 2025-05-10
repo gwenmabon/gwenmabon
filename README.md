@@ -5,8 +5,8 @@ My focus areas are **machine learning**, **MLOps**, and **data quality**, with a
 
 
 🛠 **Currently Building:**  
-**Sentinel** — a lightweight platform for monitoring data drift, quality, and model reliability, designed for **low-MLOps environments**.  
-(Coming soon — stay tuned!)
+**Rustwise**: a fast, minimalistic machine learning library in Rust, handcrafted to deeply understand and reimplement core ML algorithms from scratch.
+I design and code every component, from Bayesian logistic regression to perceptrons, with performance and clarity in mind.
 
 💡 **Core Interests:**  
 - Machine learning in production
