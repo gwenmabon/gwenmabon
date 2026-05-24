@@ -1,6 +1,6 @@
 # Hi there, I'm Gwen 👋
 
-I'm a Senior Machine Learning Engineer passionate about building reliable, scalable, and interpretable systems.  
+I'm a Staff Machine Learning Engineer passionate about building reliable, scalable, and interpretable systems.  
 My focus areas are **machine learning**, **MLOps**, and **data quality**, with a strong emphasis on shipping reliable solutions to production, operating in agile, fast-moving environments like AdTech.
 
 
