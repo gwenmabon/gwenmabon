@@ -1,26 +1,19 @@
 # Hi there, I'm Gwen 👋
+ 
+Building and learning through production-grade ML systems.
 
-I'm a Staff Machine Learning Engineer passionate about building reliable, scalable, and interpretable systems.  
-My focus areas are **machine learning**, **MLOps**, and **data quality**, with a strong emphasis on shipping reliable solutions to production, operating in agile, fast-moving environments like AdTech.
+Interests
 
+* Machine Learning Systems
+* Retrieval & Recommendation
+* Real-time ML
+* MLOps & Production ML
+* Data Quality & Reliable Systems
+* Efficient Engineering
 
-🛠 **Currently Building:**  
-**Rustwise**: a fast, minimalistic machine learning library in Rust, handcrafted to deeply understand and reimplement core ML algorithms from scratch.
-I design and code every component, from Bayesian logistic regression to perceptrons, with performance and clarity in mind.
+Stack
 
-💡 **Core Interests:**  
-- Machine learning in production
-- Data quality and observability
-- Scalable and efficient engineering
-- Making complex systems simple and robust
-
-🚀 **Skills:**  
-Machine Learning, Deep Learning, Statistical Modeling, Data Quality Management, MLOps (Docker, Kubernetes, Airflow), Big Data (Spark, Polars), Python, Scala.
-
-🤝 **Let's Connect:**  
-I'm always happy to exchange ideas about data, machine learning, and building impactful systems.  
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/gwennaëlle-mabon-phd-90b90727/) or just watch this space for new projects!
-
+Rust · Python · Scala · Airflow · Spark · Polars · Docker · Kubernetes
 
 <!---
 gwenmabon/gwenmabon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
